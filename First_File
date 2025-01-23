@@ -1,0 +1,7 @@
+Console.WritLine(”What is your name?”);
+string name=Console.ReadLine();
+Console.WritLine(”What is your roll no?”);
+int RollNo=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(”Your name is ”+name);
+Console.WriteLine(”Your Roll No is ”+RollNo);
+Console.ReadLine();
