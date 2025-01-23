@@ -5,3 +5,7 @@ int RollNo=Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(”Your name is ”+name);
 Console.WriteLine(”Your Roll No is ”+RollNo);
 Console.ReadLine();
+
+
+Console.WriteLine(”FSC subjects are Urdu. English. Math. Physics. Chemistry. Islamiyat. Tarjama-al-Quran. pak-study.”);
+
