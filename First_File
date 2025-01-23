@@ -9,3 +9,4 @@ Console.ReadLine();
 
 Console.WriteLine(”FSC subjects are Urdu. English. Math. Physics. Chemistry. Islamiyat. Tarjama-al-Quran. pak-study.”);
 
+Console.WriteLine(”First semester subjects are Computer Programming. Information technology skills. calculus and analytical geometry. Islamic studies.”);
